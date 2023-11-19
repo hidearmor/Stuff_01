@@ -18,6 +18,10 @@ It takes text in `in a word document!` the following format:
 10*ten*
 11*eleven*
 ` etc.
+It can look like this:
+
+<img src="images/inp.png" alt="Download Raw file" width="600">
+
 
 In other words bits of text separated by the asterisk sign * - and it handles them `AS PAIRS` (look at the first example) It doesn't care about line breaks or stuff like that.
 
