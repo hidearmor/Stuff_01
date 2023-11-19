@@ -10,7 +10,7 @@ Function CreateNewTable() As Table
     End With
 End Function
 
-Sub CreateTableFromText()
+Sub MemoryMacroCreateTable()
 
         ' Declare variables
     Dim originalDoc As Document
