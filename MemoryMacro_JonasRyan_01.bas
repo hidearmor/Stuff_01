@@ -1,4 +1,4 @@
-Attribute VB_Name = "Donez"
+Attribute VB_Name = "MemoryLayoutMacro"
 Function CreateNewTable() As Table
     ' Create and return a new table
     Set CreateNewTable = ActiveDocument.Tables.Add(Range:=Selection.Range, NumRows:=4, NumColumns:=4)
