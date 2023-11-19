@@ -55,7 +55,7 @@ So make sure that your document has the correct format, otherwise it won't work.
 
 <img src="images/import.png" alt="click File > import file" width="400">
 
-and then choose the file wher eyou stored it.
+and then choose the downloaded file from where you stored it.
 
 4. Now your normal folder should have the file `MemoryLayoutMacro` in it's module folder like on the picture above. 
 5. NOW SAVE INSIDE THIS EDITOR. PRESS `ctrl-S` or `cmd-S` depending on your operating system, or just do it in the menu in the top.
