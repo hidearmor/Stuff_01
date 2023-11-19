@@ -111,7 +111,7 @@ Sub MemoryMacroCreateTable()
 '            Selection.InsertBreak Type:=wdPageBreak
             Set tbl = CreateNewTable
 '            currentRow = 1
-            currentRow = currentRow + ((length + 1) Mod 4) - 1
+            currentRow = currentRow + 4 - ((length - 1) \ 4)
         Else
             Selection.EndKey Unit:=wdStory
             Set tbl = CreateNewTable
