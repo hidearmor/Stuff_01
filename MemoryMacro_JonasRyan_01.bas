@@ -111,7 +111,7 @@ Sub CreateTableFromText()
 '            Selection.InsertBreak Type:=wdPageBreak
             Set tbl = CreateNewTable
 '            currentRow = 1
-            currentRow = currentRow + ((length + 1) Mod 4)
+            currentRow = currentRow + ((length + 1) Mod 4) - 1
         Else
             Selection.EndKey Unit:=wdStory
             Set tbl = CreateNewTable
