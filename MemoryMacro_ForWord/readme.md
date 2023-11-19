@@ -35,7 +35,8 @@ So make sure that your document has the correct format, otherwise it won't work.
 # HOW DO I DO IT?
 
 ## Downloading the macro file:
-1. First right click the file `MemoryMacro_JonasRyan_01.bas` in the folder strucute above the read-me you are reading
+1. First right click here and open in another tab: [MemoryMacro_JonasRyan_01.bas](MemoryMacro_JonasRyan_01.bas)
+
 2. When in the other tab, click on this button to download the file - make sure you `notice where you store it on you computer`
 
 <img src="images/dlraw.png" alt="Download Raw file" width="700">
